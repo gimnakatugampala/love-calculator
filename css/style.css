@@ -1,0 +1,41 @@
+.columns {
+  margin: auto;
+}
+
+.button {
+  width: 100%;
+}
+
+.card-content {
+  position: relative;
+}
+
+.card-content img {
+  margin: auto;
+  width: 100%;
+}
+
+.card-content img,
+.card-content p {
+  text-align: center;
+}
+
+.you {
+  color: rgb(60, 161, 51);
+}
+
+.crush {
+  color: rgb(211, 100, 118);
+}
+
+#percentage {
+  position: absolute;
+  top: 40%;
+  right: 35%;
+  font-size: 50px;
+  color: #fff;
+}
+
+.notification {
+  text-align: center;
+}
